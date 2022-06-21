@@ -1,0 +1,1 @@
+from .wrn import wrn40_4, wrn16_4
