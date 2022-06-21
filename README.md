@@ -1,4 +1,4 @@
-# SOTA implementation of Differentially Private SGD (DP-SGD)
+# Implementation of Differentially Private SGD (DP-SGD)
 
 This code will implement the algorithm in ["Unlocking High-Accuracy Differentially Private Image Classification through Scale"](https://arxiv.org/abs/2204.13650). For now, this code does not implement Augmentation multiplicity and Parameter averageing (see Table 2 in the paper).
 
